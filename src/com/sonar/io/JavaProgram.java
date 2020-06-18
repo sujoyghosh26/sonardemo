@@ -34,6 +34,8 @@ public class JavaProgram {
              strAsByteArray[strAsByteArray.length-i-1]; 
   
         System.out.println(new String(result)); 
+        System.out.println(new String(result)); 
+        // Requirement ID : 68
 	}
 	
 }
