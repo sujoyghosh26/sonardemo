@@ -14,11 +14,11 @@
 		<!-- Define the Sonar properties -->
 		
 		<property name="sonar.host.url" value="https://sonarcloud.io"/>
-		<property name="sonar.projectKey" value="sajjad562_Test13"/>
-		<property name="sonar.projectName" value="sajjad562_Test13"/>
+		<property name="sonar.projectKey" value="sujoyghosh26_sonardemo"/>
+		<property name="sonar.projectName" value="sujoyghosh26_sonardemo"/>
 		<property name="sonar.projectVersion" value="1.0"/>
-		<property name="sonar.organization" value="sajjad562"/>
-		<property name="sonar.login" value="d4e8812336c1c15304cb2eccc5dcc5b9fb009696 "/>
+		<property name="sonar.organization" value="sujoyghosh26"/>
+		<property name="sonar.login" value="373bb5fbfc342866f93e44c3adc4b215ed736bf7"/>
 		<property name="sonar.language" value="java"/>
 		<property name="sonar.sources" value="src"/>
 		<property name="sonar.binaries" value="target"/>
@@ -44,7 +44,7 @@
 			<taskdef resource="org/sonar/ant/antlib.xml" uri="antlib:org.sonar.ant">
 		
 				<!-- Update the following line, or put the "sonar-ant-task-*.jar" file in your "$HOME/.ant/lib" folder -->
-				<classpath path="/home/kovair/sonarqube-ant-task-2.7.0.1612.jar"/>
+				<classpath path="C:\sonarqube-ant-task-2.7.0.1612.jar"/>
 			</taskdef>
 		
 			<!-- Execute Sonar -->
