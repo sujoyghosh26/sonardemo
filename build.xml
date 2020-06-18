@@ -16,7 +16,7 @@
 		<property name="sonar.host.url" value="https://sonarcloud.io"/>
 		<property name="sonar.projectKey" value="sujoyghosh26_sonardemo"/>
 		<property name="sonar.projectName" value="sujoyghosh26_sonardemo"/>
-		<property name="sonar.projectVersion" value="1.0"/>
+		<property name="sonar.projectVersion" value="2.0"/>
 		<property name="sonar.organization" value="sujoyghosh26"/>
 		<property name="sonar.login" value="373bb5fbfc342866f93e44c3adc4b215ed736bf7"/>
 		<property name="sonar.language" value="java"/>
