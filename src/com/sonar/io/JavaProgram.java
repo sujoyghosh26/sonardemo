@@ -10,6 +10,16 @@ public class JavaProgram {
 			}
 		}
 		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
+		System.out.println("Even Number:");
 		System.out.println("Even Number:")
 		for(int i=0;i<a.length;i++){
 			if(a[i]%2==0){
