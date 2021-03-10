@@ -1,7 +1,7 @@
 organization=sujoyghosh26
 projectKey=sujoyghosh26_sonardemo
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.8760
+serverVersion=8.0.0.18056
 dashboardUrl=https://sonarcloud.io/dashboard?id=sujoyghosh26_sonardemo
-ceTaskId=AXLGuFfijG9mi77Ty5rg
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLGuFfijG9mi77Ty5rg
+ceTaskId=AXgbpEmEViC-poMvBiqc
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgbpEmEViC-poMvBiqc

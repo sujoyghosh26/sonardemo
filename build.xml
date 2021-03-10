@@ -44,7 +44,7 @@
 			<taskdef resource="org/sonar/ant/antlib.xml" uri="antlib:org.sonar.ant">
 		
 				<!-- Update the following line, or put the "sonar-ant-task-*.jar" file in your "$HOME/.ant/lib" folder -->
-				<classpath path="C:\sonarqube-ant-task-2.7.0.1612.jar"/>
+				<classpath path="C:\sonardemo\sonarqube-ant-task-2.7.0.1612.jar"/>
 			</taskdef>
 		
 			<!-- Execute Sonar -->
@@ -66,7 +66,10 @@
     </target>
 
 		
-		<!-- ========= The main target "all" ========= -->
-		
+		<!-- ========= The main target "all" =========- -->
+		<!--commented-->
 		<target name="all" depends="clean,compile,sonar"/>
+			
+			
+		
 		</project>
