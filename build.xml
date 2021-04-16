@@ -67,7 +67,8 @@
 
 		
 		<!-- ========= The main target "all" =========- -->
-		<!--commented for requirement 282 by lkov-->
+		<!--commented for requirement 289 kovair on 16th -->
+			<!--commented for requirement 289 kovair on 16th -->
 			
 		<target name="all" depends="clean,compile,sonar"/>
 			

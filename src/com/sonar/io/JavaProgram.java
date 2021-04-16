@@ -35,7 +35,7 @@ public class JavaProgram {
   
         System.out.println(new String(result)); 
         System.out.println(new String(result)); 
-        // Requirement ID : 38
+        // Requirement ID : 389
 	}
 	
 }
